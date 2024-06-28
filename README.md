@@ -4,10 +4,7 @@ Hi there! I am currenty studying computer engineering at the University of Toron
 
 ## 🛠️ Some of my Skills
 
-### Programming Languages
-- Python, C/C++, Java
-- HTML, CSS, JavaScript/TypeScript
-- C#, SQL, R
+- **Languages I speak:** Python, C/C++, Java, SQL
 
 <!--
 **sober-baby/sober-baby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
