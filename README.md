@@ -1,4 +1,8 @@
-## Hi there 👋
+# ✨ About Me
+
+Hi there! I am currenty studying computer engineering at the University of Toronto. I am enthusiastic about robotics (both software and hardware), game development, and machine learning!
+
+## 🛠️ What's in my Pocket
 
 <!--
 **sober-baby/sober-baby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
