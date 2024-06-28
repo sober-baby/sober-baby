@@ -1,4 +1,4 @@
-# ✨ About Me
+## ✨ About Me
 
 Hi there! I am currenty studying computer engineering at the University of Toronto. I am enthusiastic about robotics (both software and hardware), game development, and machine learning!
 
