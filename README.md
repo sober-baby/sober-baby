@@ -4,9 +4,9 @@ Hi there! I am currenty studying computer engineering at the University of Toron
 
 ## 🛠️ Some of my Skills
 
-- **Languages I speak:** Python, C/C++, Java, SQL, Verilog, Assembly, Solidity
-- **Frameworks:** ROS, Javacard, Numpy, PyPlot, PyTorch, Pandas, PySide6, Jupyter Notebook, Arduino, MongoDB
-- **My Toolbox:** Microsoft Azure, Gazebo, Unity, UnrealEngine5, FPGA, Android Studio
+- **Languages I speak:** Python, C/C++, Java, C\#, ROS, Verilog, Assembly, JavaScript, SQL, HTML/CSS, Solidity
+- **Frameworks:** ROS, NumPy, PyPlot, PyTorch, Pandas, LangChain, Spark, Jupyter Notebook, React, Node.js, MongoDB
+- **My Toolbox:** Azure, Gazebo, Azure Data Studio, Palantir Foundry, FPGA, Android Studio, MatLab, Unity
 
 <!--
 **sober-baby/sober-baby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
